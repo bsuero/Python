@@ -1,0 +1,1 @@
+print raw_input("please, enter whatever you want for testing? ")
